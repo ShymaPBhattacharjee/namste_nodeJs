@@ -29,4 +29,7 @@ Episode 07 :
 
 Episode 08: 
 
+Episode - 09 : AZbout event loop internals :
+
+Episode - 10 : about thread pools :
 
