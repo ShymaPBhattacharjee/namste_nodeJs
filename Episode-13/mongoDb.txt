@@ -1,0 +1,4 @@
+user : namastedev_shyam
+password : SidheswariMaa@25
+
+const URI = mongodb+srv://namastedev_shyam:SidheswariMaa@25@namastenode.6yj33.mongodb.net/

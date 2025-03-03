@@ -33,3 +33,12 @@ Episode - 09 : AZbout event loop internals :
 
 Episode - 10 : about thread pools :
 
+Episode 13: About creating a server and onnect to mongoDb
+    
+    find in mongoDb:
+        -  find returns cursor in mongoDb.
+        - We should always use toArray method with the find method to get human readable JSON array format.
+        - As find method returns cursor, we can method chain like promise chaining.
+
+
+
